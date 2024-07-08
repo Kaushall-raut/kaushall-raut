@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kaushal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack , NextJS**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kaushal" height="30" width="40" /></a>
+<!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kaushal" height="30" width="40" /></a> -->
 <a href="https://instagram.com/kaushal.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushal.code" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kaushal-raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushal-raut" height="30" width="40" /></a>
 </p>
