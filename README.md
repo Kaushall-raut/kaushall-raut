@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushall-raut" alt="kaushall-raut" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack , NextJS , laravel ,RESTAPI**
+- 🌱 I’m currently learning ?
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaushall-raut](https://github.com/Kaushall-raut)
 
