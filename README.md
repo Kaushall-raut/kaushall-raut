@@ -40,4 +40,4 @@ Hi, I'm Kaushal , a passionate full-stack developer with a love for building sca
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/kaushal-raut-174014317" target="_blank">kaushal raut</a> Email: Kaushalraut.code@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/kaushal-raut22" target="_blank">kaushal raut</a> Email: Kaushalraut.code@gmail.com</p>
