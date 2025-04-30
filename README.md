@@ -34,7 +34,7 @@ Hi, I'm Kaushal , a passionate full-stack developer with a love for building sca
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 
-  <img src="https://raw.githubusercontent.com/kaushall-raut/Kaushall-raut/output/snake.svg" width = 1500 alt="Snake animation" />
+
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Kaushall-raut&theme=dark&show_icons=true&count_private=true">
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Kaushall-raut&theme=dark"></td><td width="50%" align="center">
