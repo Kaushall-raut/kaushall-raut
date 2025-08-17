@@ -42,6 +42,8 @@ Hi, I'm Kaushal , a passionate full-stack developer with a love for building sca
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/kaushal-raut22?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoX2A05IeQGW%2FjEFNDil0sQ%3D%3D" target="_blank">kaushal raut</a> Email: Kaushalraut.code@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/kaushal-raut22?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoX2A05IeQGW%2FjEFNDil0sQ%3D%3D" target="_blank">kaushal raut</a> Email: Kaushalraut.code@gmail.com 
+<h5>PortFolio :  kaushal-portfolio-peach.vercel.app</h5>
+</p>
 
 ![snake gif](https://github.com/kaushall-raut/kaushall-raut/blob/output/snake.svg)
