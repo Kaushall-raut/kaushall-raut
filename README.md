@@ -18,7 +18,7 @@
 
 
 ## 🧠 My Focus Areas
-- Full stack development / Ai/ML
+- Backend development and Ai/ML
 
 
 ## 📊 GitHub Stats & Trophies
